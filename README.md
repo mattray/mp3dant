@@ -1,6 +1,6 @@
 # mp3dant
 
-mp3dant is a command-line tool for identifying, analyzing, and "correcting" MP3 ID3 metadata and organization based on a rule set.
+mp3dant is a command-line tool for identifying, analyzing, and "correcting" MP3 [ID3](https://en.wikipedia.org/wiki/ID3) metadata and organization based on a rule set.
 It consists of a series of subcommands for each action.
 
 ## Commands
@@ -20,15 +20,11 @@ mp3dant is a [Go](http://www.golang.org) application and was written and tested 
 
 Each command has additional documentation provided.
 
-## [mp3dant](docs/root.md)
-
-## [mp3dant scan](docs/scan.md)
-
-## [mp3dant parse](docs/parse.md)
-
-## [mp3dant convert](docs/convert.md)
-
-## [mp3dant write](docs/write.md)
+  * [mp3dant](docs/root.md)
+  * [mp3dant scan](docs/scan.md)
+  * [mp3dant parse](docs/parse.md)
+  * [mp3dant convert](docs/convert.md)
+  * [mp3dant write](docs/write.md)
 
 # Testing
 
